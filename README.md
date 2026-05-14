@@ -84,3 +84,7 @@ Examples:
             | Email          |
             | Age            |
             +----------------+
+
+## Screenshots
+
+![Course Object](course.png)
