@@ -88,3 +88,9 @@ Examples:
 ## Screenshots
 
 ![Course Object](course.png)
+
+![Department Object](department.png)
+
+![Faculty Object](faculty.png)
+
+![Student Object](student.png)
